@@ -1,8 +1,9 @@
 # Playground
-Sandbox environment for C++ development and 
-testing.
+Sandbox environment for C++ development and testing.
 
-If you are unfamiliar with the *markdown* language syntax used in this file, note you can see a friendly rendering of it by clicking on one of the buttons in the upper right corner of VS Code (should say "Open Preview to the Side" when you hover over it). 
+If you are unfamiliar with the *markdown* language syntax used in this file, note you can see a friendly rendering of it by either :
+1. Visiting [the project's github page](https://github.com/Mines-CSCI220/Playground/), or
+1. Clicking on one of the buttons in the upper right corner of VS Code (should say "Open Preview to the Side" when you hover over it). 
 
 To use:
 1. Open a terminal window.
